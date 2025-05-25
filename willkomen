@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>موقعي الأول</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>مرحباً بكم في موقعي!</h1>
+  <p>هذا هو أول موقع أنشئه بنفسي باستخدام GitHub وVercel.</p>
+</body>
+</html>
